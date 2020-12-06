@@ -1,0 +1,6 @@
+.Node {
+    height: 1rem;
+    width: 1rem;
+    border: solid 1px #cccccc;
+    background: white;
+}
